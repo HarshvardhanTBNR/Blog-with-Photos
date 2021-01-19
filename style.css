@@ -1,4 +1,31 @@
-body{
-color: darkturquoise;
-background-color: crimson;
+#h1{
+  text-align: center;
+}
+#gotenks{
+font-size:20px;
+color:chartreuse;
+}
+#goku{
+font-size:20px;
+color:red;
+}
+#majiin{
+font-size:20px;
+color:cyan;
+}
+#gogeta{
+    font-size:20px;
+color:yellow;
+}
+#gogetablue{
+font-size:20px;
+color:blue;
+}
+#zamasu{
+font-size:20px;
+color:purple;
+}
+vegito{
+font-size:20px;
+color:red;
 }
