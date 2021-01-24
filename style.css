@@ -4,14 +4,17 @@
 #gotenks{
 font-size:20px;
 color:chartreuse;
+height:200px;
 }
 #goku{
 font-size:20px;
 color:red;
+height:50px;
 }
 #majiin{
 font-size:20px;
 color:cyan;
+height: 200px;
 }
 #gogeta{
     font-size:20px;
@@ -37,8 +40,8 @@ div{
 margin-top: 15px;
 }
 .image-section{
-display:flex;
-justify-content:center; 
+display:grid;
+justify-content:space-around; 
 }
 .section-style{
 margin-right:25px;
